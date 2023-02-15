@@ -77,5 +77,5 @@ Following are datasets uploaded by others. Some of them have very old basecalls.
 
 - link: https://github.com/LomanLab/mockcommunity
 - associated publication: https://academic.oup.com/gigascience/article/8/5/giz043/5486468
-- raw signal data in BLOW5 format and the associated BLOW5 index: [Zymo-GridION-EVEN-BB-SN.blow5](https://slow5.page.link/Zymo-GridION-EVEN-BB-SN), [Zymo-GridION-EVEN-BB-SN.blow5.idx](https://slow5.page.link/Zymo-GridION-EVEN-BB-SN-idx)
-- Guppy 6.1.3 high accuracy rebasecalled reads (through [buttery-eel](https://github.com/Psy-Fer/buttery-eel) wrapper, with dna_r9.4.1_450bps_hac.cfg model) that passed the default qscore filter FASTQ format : [Zymo-GridION-EVEN-BB-SN_guppy_6.1.3_hac_pass.gz](https://seqdata.page.link/Zymo-GridION-EVEN-BB-SN_guppy_6_1_3_hac_pass)
+- raw signal data in BLOW5 format and the associated BLOW5 index for the Zymo-GridION-EVEN-BB-SN sample: [Zymo-GridION-EVEN-BB-SN.blow5](https://slow5.page.link/Zymo-GridION-EVEN-BB-SN), [Zymo-GridION-EVEN-BB-SN.blow5.idx](https://slow5.page.link/Zymo-GridION-EVEN-BB-SN-idx)
+- Guppy 6.1.3 high accuracy rebasecalled reads (through [buttery-eel](https://github.com/Psy-Fer/buttery-eel) wrapper, with dna_r9.4.1_450bps_hac.cfg model) that passed the default qscore filter FASTQ format for the Zymo-GridION-EVEN-BB-SN sample: [Zymo-GridION-EVEN-BB-SN_guppy_6.1.3_hac_pass.gz](https://seqdata.page.link/Zymo-GridION-EVEN-BB-SN_guppy_6_1_3_hac_pass)
