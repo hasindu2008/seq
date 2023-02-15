@@ -2,7 +2,7 @@
 
 ## NA12878 PromethION data (~30X)
 
-- SRA: https://www.ncbi.nlm.nih.gov/sra/?term=SRS9414678
+- SRA: [SRS9414678](https://www.ncbi.nlm.nih.gov/sra/?term=SRS9414678)
 - associated publication: https://www.nature.com/articles/s41587-021-01147-4
 - Notes: the complete dataset with 9.1M reads (93.4 Gbases), as well as a subset of 500,000 reads are available
     
@@ -59,7 +59,7 @@ Following are datasets uploaded by others. Some of them have very old basecalls.
 - link: https://community.artic.network/t/links-to-raw-fast5-fastq-data-for-artic-protocol/17
 - associated publication: https://www.sciencedirect.com/science/article/pii/S1477893920300806
 - raw signal data in BLOW5 format and the associated BLOW5 index: [SP1-raw-mapped.blow5](https://slow5.page.link/SP1-raw-mapped), [SP1-raw-mapped.blow5.idx](https://slow5.page.link/SP1-raw-mapped-idx)
-- Guppy 6.1.3 high accuracy rebasecalled reads (through buttery-eel wrapper, with dna_r9.4.1_450bps_hac.cfg model) that passed the default qscore filter FASTQ format : [SP1-mapped_guppy_6.1.3_hac_pass.fastq.gz](https://seqdata.page.link/SP1-mapped_guppy_6_1_3_hac_pass)
+- Guppy 6.1.3 high accuracy rebasecalled reads (through [buttery-eel wrapper](https://github.com/Psy-Fer/buttery-eel), with dna_r9.4.1_450bps_hac.cfg model) that passed the default qscore filter FASTQ format : [SP1-mapped_guppy_6.1.3_hac_pass.fastq.gz](https://seqdata.page.link/SP1-mapped_guppy_6_1_3_hac_pass)
 
 
 ## Yeast (Saccharomyces cerevisiae)
@@ -73,9 +73,9 @@ Following are datasets uploaded by others. Some of them have very old basecalls.
 - link: https://www.ncbi.nlm.nih.gov/sra/ERR3237140/
 - associated associated publication: https://www.nature.com/articles/s41467-019-10168-2
 
-#### Zymo data from LomanLab
+## Zymo data from LomanLab
 
 - link: https://github.com/LomanLab/mockcommunity
 - associated publication: https://academic.oup.com/gigascience/article/8/5/giz043/5486468
 - raw signal data in BLOW5 format and the associated BLOW5 index: [Zymo-GridION-EVEN-BB-SN.blow5](https://slow5.page.link/Zymo-GridION-EVEN-BB-SN), [Zymo-GridION-EVEN-BB-SN.blow5.idx](https://slow5.page.link/Zymo-GridION-EVEN-BB-SN-idx)
-- Guppy 6.1.3 high accuracy rebasecalled reads (through buttery-eel wrapper, with dna_r9.4.1_450bps_hac.cfg model) that passed the default qscore filter FASTQ format : [Zymo-GridION-EVEN-BB-SN_guppy_6.1.3_hac_pass.gz](https://seqdata.page.link/Zymo-GridION-EVEN-BB-SN_guppy_6_1_3_hac_pass)
+- Guppy 6.1.3 high accuracy rebasecalled reads (through [buttery-eel](https://github.com/Psy-Fer/buttery-eel) wrapper, with dna_r9.4.1_450bps_hac.cfg model) that passed the default qscore filter FASTQ format : [Zymo-GridION-EVEN-BB-SN_guppy_6.1.3_hac_pass.gz](https://seqdata.page.link/Zymo-GridION-EVEN-BB-SN_guppy_6_1_3_hac_pass)
