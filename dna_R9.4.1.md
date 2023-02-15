@@ -49,15 +49,17 @@ Following are datasets uploaded by others. Some of them have very old basecalls.
 
 ## CHM13 from Telomere-to-telomere consortium project
 
-
 - link: https://github.com/marbl/CHM13
 - associated publication: https://www.science.org/doi/10.1126/science.abj6987
+- raw signal data converted to BLOW5 format: []
 
 
 ## SARS-CoV-2 SP1
 
 - link: https://community.artic.network/t/links-to-raw-fast5-fastq-data-for-artic-protocol/17
 - associated publication: https://www.sciencedirect.com/science/article/pii/S1477893920300806?via%3Dihub
+- raw signal data in BLOW5 format and the associated BLOW5 index: [SP1-raw-mapped.blow5](https://slow5.page.link/SP1-raw-mapped), [SP1-raw-mapped.blow5.idx](https://slow5.page.link/SP1-raw-mapped-idx)
+- Guppy 6.1.3 high accuracy rebasecalled reads (through buttery-eel wrapper, with dna_r9.4.1_450bps_hac.cfg model) that passed the default qscore filter FASTQ format : [SP1-mapped_guppy_6.1.3_hac_pass.fastq.gz](https://seqdata.page.link/SP1-mapped_guppy_6_1_3_hac_pass)
 
 
 ## Yeast (Saccharomyces cerevisiae)
