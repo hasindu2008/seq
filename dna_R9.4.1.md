@@ -51,7 +51,8 @@ Following are datasets uploaded by others. Some of them have very old basecalls.
 
 - link: https://github.com/marbl/CHM13
 - associated publication: https://www.science.org/doi/10.1126/science.abj6987
-- raw signal data converted to BLOW5 format can be ontained from: [SRR23371619](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23371619&display=data-access) | MD5sum for the tarball: 04f9d1c6ea2d11ccfc131c8244f059d3
+- raw signal data converted to BLOW5 format can be ontained from: [SRR23371619](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23371619&display=data-access). 
+- MD5sum for the CHM13_T2T_ONT_blow5.tar: `04f9d1c6ea2d11ccfc131c8244f059d3`
 
 
 ## SARS-CoV-2 SP1
