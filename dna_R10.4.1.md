@@ -1,4 +1,4 @@
-# R10.4.1 pores
+# R10.4.1 chemistry
 
 ## HG002 PromethION data (~30X)
 
