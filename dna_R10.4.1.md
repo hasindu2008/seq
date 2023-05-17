@@ -1,4 +1,4 @@
-# R10.4.1 chemistry
+# ONT R10.4.1 chemistry - DNA data
 
 ## HG002 PromethION data (~30X)
 
