@@ -41,7 +41,7 @@ Super accuracy basecalls from a recent Guppy version is available on a in-house 
 
 ---
 
-Following are datasets uploaded by others. Some of them have very old basecalls. In some of them, raw FAST5 signal files are no longer working with latest Guppy. I have converted them to BLOW5 format and have basecalled using a very recent Guppy through [buttery-eel](https://github.com/Psy-Fer/buttery-eel). 
+Following are datasets uploaded by others. Some of them have very old basecalls. In some of them, raw FAST5 signal files are no longer working with latest Guppy. I have converted them to [BLOW5 format](https://www.nature.com/articles/s41587-021-01147-4) and have basecalled using a very recent Guppy through [buttery-eel](https://github.com/Psy-Fer/buttery-eel). 
 
 
 ## NA12878 MinION data from Nanopore WGS Consortium
