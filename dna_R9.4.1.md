@@ -1,4 +1,4 @@
-# R9.4.1 chemistry
+# ONT R9.4.1 chemistry - DNA data
 
 ## NA12878 PromethION data (~30X)
 
