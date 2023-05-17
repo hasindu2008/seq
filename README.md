@@ -9,7 +9,7 @@ This repository keeps track of the links to some useful publicly available nanop
 # ONT R9.4.1 chemistry
 
 - [DNA R9.4.1](dna_R9.4.1.md)
-- [DNA R9.4.1](rna_R9.4.1.md)
+- [RNA R9.4.1](rna_R9.4.1.md)
 
 ---
 
