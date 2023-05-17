@@ -2,14 +2,14 @@
 
 This repository keeps track of the links to some useful publicly available nanopore datasets (that includes raw signal data). These datasets include those we generated in-house at Garvan institute and uploaded to SRA, as well as uploaded to public repositores such as SRA and ENA by others.
 
-# DNA R10.4.1
+# ONT R10.4.1 chemistry
 
-See [here](dna_R10.4.1.md)
+- [DNA R10.4.1](dna_R10.4.1.md)
 
-# DNA R9.4.1
+# ONT R9.4.1 chemistry
 
-See [here](dna_R9.4.1.md)
-
+- [DNA R9.4.1](dna_R9.4.1.md)
+- [DNA R9.4.1](rna_R9.4.1.md)
 
 ---
 
