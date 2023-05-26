@@ -50,7 +50,7 @@ Following are datasets uploaded by others. Some of them have very old basecalls.
 - associated publication: https://www.nature.com/articles/nbt.4060
 - raw signal data converted to BLOW5 format can be obtained from [SRR23513620](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23513620&display=data-access). filename: `na12878_DNA_blow5.tar` (md5sum: `2d02a7706d00572dcd9fcfa96e0357f4`)
 - Guppy 6.1.3 super accuracy rebasecalled reads (through [buttery-eel wrapper](https://github.com/Psy-Fer/buttery-eel), with dna_r9.4.1_450bps_sup.cfg model) that passed the default qscore filter: [SRR23513621](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23513621&display=data-access).
-
+- f5c 1.1 CpG methylation call frequencies in tsv and bigwig formats are available from [https://doi.org/10.6084/m9.figshare.21543330.v1](https://doi.org/10.6084/m9.figshare.21543330.v1).
 
 ## CHM13 from Telomere-to-telomere consortium project
 
@@ -58,6 +58,7 @@ Following are datasets uploaded by others. Some of them have very old basecalls.
 - associated publication: https://www.science.org/doi/10.1126/science.abj6987
 - raw signal data converted to BLOW5 format can be obtained from [SRR23371619](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23371619&display=data-access). file name: `CHM13_T2T_ONT_blow5.tar` (md5sum: `04f9d1c6ea2d11ccfc131c8244f059d3`).
 - Guppy 6.3.7 high accuracy rebasecalled reads (through [buttery-eel wrapper](https://github.com/Psy-Fer/buttery-eel), with dna_r9.4.1_450bps_hac.cfg model) that passed the default qscore filter: [SRR23365080](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23365080&display=data-access).
+- f5c 1.1 CpG methylation call frequencies in tsv and bigwig formats are available from  [https://doi.org/10.6084/m9.figshare.21520950.v2](https://doi.org/10.6084/m9.figshare.21520950.v2]).
 
 ## SARS-CoV-2 SP1
 
@@ -68,12 +69,10 @@ Following are datasets uploaded by others. Some of them have very old basecalls.
     - [SP1-raw-mapped.blow5.idx](https://slow5.page.link/SP1-raw-mapped-idx) (md5sum: `c79ef9280be63fad7c07e4352402ce7a`)
 - Guppy 6.1.3 high accuracy rebasecalled reads (through [buttery-eel wrapper](https://github.com/Psy-Fer/buttery-eel), with dna_r9.4.1_450bps_hac.cfg model) that passed the default qscore filter in FASTQ format : [SP1-mapped_guppy_6.1.3_hac_pass.fastq.gz](https://seqdata.page.link/SP1-mapped_guppy_6_1_3_hac_pass)
 
-
 ## Yeast (Saccharomyces cerevisiae)
 
 - link: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA510813
 - associated Publication: https://genome.cshlp.org/content/29/8/1329
-
 
 ## Chalmydomonas (Chlamydomonas reinhardtii)
 
