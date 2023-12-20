@@ -1,0 +1,3 @@
+---
+target: https://example.com
+---
