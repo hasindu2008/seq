@@ -3,12 +3,13 @@
 ## NA12878 PromethION data (~30X)
 
 - SRA: [SRS9414678](https://www.ncbi.nlm.nih.gov/sra/?term=SRS9414678)
-- associated publication: https://www.nature.com/articles/s41587-021-01147-4
+- associated publication: [https://www.nature.com/articles/s41587-021-01147-4](https://www.nature.com/articles/s41587-021-01147-4)
 - Notes: the complete dataset with 9.1M reads (93.4 Gbases), as well as a subset of 500,000 reads are available
     
 ### Complete Dataset (9.1M reads):
 
 #### raw signal data:
+
 | Description                                          | SRA accession                                                      | Direct download link (md5sum) | 
 | ---------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------|
 | [BLOW5 format](https://www.nature.com/articles/s41587-021-01147-4) | [SRR22186402](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR22186402&display=data-access) |  [na12878_prom_merged.blow5](https://slow5.page.link/na12878_prom_slow5) (`7e1a5900aff10e2cf1b97b8d3c6ecd1e`), [na12878_prom_merged.blow5.idx](https://slow5.page.link/na12878_prom_slow5_idx) (`a78919e8ac8639788942dbc3f1a2451a`)    |
@@ -27,12 +28,14 @@ Super accuracy basecalls from a recent Guppy version is available on a in-house 
 ### Subset (500,000 reads):
 
 #### raw signal data:
+
 | Description                                          | SRA run Data access                                                                                        |Direct download link (md5sum) | 
 | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |  ------------------------------|
 | [BLOW5 format](https://www.nature.com/articles/s41587-021-01147-4)                   | [SRR22186403](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR22186403&display=data-access) |[subsample_slow5.tar](https://slow5.page.link/na12878_prom_sub_slow5) (`6cdbe02c3844960bb13cf94b9c3173bb`) |
 | FAST5 format                    | [SRR15058164](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR15058164&display=data-access) | [subsample.tar.gz](https://slow5.page.link/na12878_prom_sub) (`591ec7d1a2c6d13f7183171be8d31fba`) |
 
 #### basecalls:
+
 | Basecaller    | model |SRA accession                                                                                         |
 | ------------------ | ----| ---------------------------------------------------------------------------------------------------------- |
 | Guppy 4.0.11 | dna_r9.4.1_450bps_hac_prom | [SRR15058164](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR15058164&display=download) | 
