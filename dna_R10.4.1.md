@@ -2,14 +2,15 @@
 
 ## NA24385 (HG002) PromethION data (~30X)
 
-- SRA: https://www.ncbi.nlm.nih.gov/sra/?term=SRS16575602
-- associated publication: https://www.nature.com/articles/s41587-021-01147-4
+- SRA: [https://www.ncbi.nlm.nih.gov/sra/?term=SRS16575602](https://www.ncbi.nlm.nih.gov/sra/?term=SRS16575602)
+- associated publication: [https://www.nature.com/articles/s41587-021-01147-4](https://www.nature.com/articles/s41587-021-01147-4)
 - info: sheared DNA libraries (~17Kb) were prepared using the ONT LSK114 ligation library prep and a R10.4.1 flow cell was used to generate ~30X genome coverage.
 - Notes: the complete dataset with 15.3M reads (102.2 Gbases), as well as a subset of 500,000 reads are available
 
 ### Complete Dataset (15.3M reads):
 
 raw signal data:
+
 | Description                                          | SRA accession                                                       | Direct download link (md5sum)  |
 | ---------------------------------------------------- | ------------------------------------------------------------------- |--------------------------------|
 | BLOW5 format | [SRR23215366](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23215366&display=data-access)  | [PGXX22394_reads.blow5](https://slow5.page.link/hg2_prom_slow5) (`3498b595ac7c79a3d2dce47454095610`), [PGXX22394_reads.blow5.idx](https://slow5.page.link/hg2_prom_slow5_idx) (`1e11735c10cf63edc4a7114f010cc472`)|
