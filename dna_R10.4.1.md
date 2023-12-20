@@ -27,7 +27,7 @@ basecalls:
 
 | Description                                          | SRA run Data access                                                                                        | Direct download link (md5sum)  |
 | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |--------------------------------|
-| BLOW5 format                   | [SRR23215365](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23215365&display=data-access) |[hg2_subsample_slow5.tar](https://slow5.page.link/hg2_prom_sub_slow5)</sub> <sub>(`65386e1da1d82b892677ad5614e8d84d`)|
+| BLOW5 format                   | <sub>[SRR23215365](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23215365&display=data-access) |[hg2_subsample_slow5.tar](https://slow5.page.link/hg2_prom_sub_slow5)</sub> <sub>(`65386e1da1d82b892677ad5614e8d84d`)</sub>|
 
 
 
