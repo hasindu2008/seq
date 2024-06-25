@@ -1,4 +1,4 @@
-# ONT R10.4.1 chemistry - DNA data
+# ONT R10.4.1 4kHz chemistry - DNA data
 
 ## NA24385 (HG002) PromethION data (~30X)
 
@@ -13,12 +13,12 @@ raw signal data:
 
 | Description                                          | SRA accession                                                       | Direct download link (md5sum)  |
 | ---------------------------------------------------- | ------------------------------------------------------------------- |--------------------------------|
-| BLOW5 format | [SRR23215366](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23215366&display=data-access)  | [PGXX22394_reads.blow5](https://slow5.page.link/hg2_prom_slow5) (`3498b595ac7c79a3d2dce47454095610`), [PGXX22394_reads.blow5.idx](https://slow5.page.link/hg2_prom_slow5_idx) (`1e11735c10cf63edc4a7114f010cc472`)|
+| BLOW5 format | [SRR23215366](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23215366&display=data-access)  | [PGXX22394_reads.blow5](https://slow5.bioinf.science/hg2_prom_slow5) (`3498b595ac7c79a3d2dce47454095610`), [PGXX22394_reads.blow5.idx](https://slow5.bioinf.science/hg2_prom_slow5_idx) (`1e11735c10cf63edc4a7114f010cc472`)|
 
 basecalls:
 
-| Basecaller         | model | Notes | SRA accession                                                                                               | 
-| ------------------ | ----  | ----  | ---------------------------------------------------------------------------------------------------------- | 
+| Basecaller         | model | Notes | SRA accession                                                                                               |
+| ------------------ | ----  | ----  | ---------------------------------------------------------------------------------------------------------- |
 | Guppy 6.3.7 | dna_r10.4.1_e8.2_sup@v3.5.1 | live basecalling;  reads that passed the default qscore filter | [SRR23215363](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23215363&display=download) |
 | Guppy 6.1.5 | dna_r10.4.1_e8.2_hac@v3.5.1 | reads that passed the qscore filter for threshold 9 | [SRR23215364](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23215364&display=download) |
 
@@ -27,8 +27,11 @@ basecalls:
 
 | Description                                          | SRA run Data access                                                                                        | Direct download link (md5sum)  |
 | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |--------------------------------|
-| BLOW5 format                   | <sub>[SRR23215365](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23215365&display=data-access) |[hg2_subsample_slow5.tar](https://slow5.page.link/hg2_prom_sub_slow5)</sub> <sub>(`65386e1da1d82b892677ad5614e8d84d`)</sub>|
+| BLOW5 format                   | <sub>[SRR23215365](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23215365&display=data-access) |[hg2_subsample_slow5.tar](https://slow5.bioinf.science/hg2_prom_sub_slow5)</sub> <sub>(`65386e1da1d82b892677ad5614e8d84d`)</sub>|
 
 
 
+## More dataset links
 
+- NA12878 (HG001) PromethION data (~20X): See the [gtgseq repository](https://gentechgp.github.io/gtgseq/docs/data.html#na12878-hg001-promethion-data-20x).
+- Zymo GridION: see [here](https://github.com/Kirk3gaard/2023-basecalling-benchmarks)
