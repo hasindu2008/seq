@@ -4,9 +4,9 @@ This repository keeps track of the links to some useful publicly available nanop
 
 # ONT R10.4.1 chemistry
 
-- [DNA R10.4.1 4kHz](dna_R10.4.1_4khz.md)
 - [DNA R10.4.1 5kHz](dna_R10.4.1_5khz.md)
 - [RNA RNA004](rna004.md)
+- [DNA R10.4.1 4kHz](dna_R10.4.1_4khz.md)
 
 # ONT R9.4.1 chemistry
 
