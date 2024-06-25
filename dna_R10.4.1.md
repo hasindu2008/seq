@@ -18,7 +18,7 @@ raw signal data:
 basecalls:
 
 | Basecaller         | model | Notes | SRA accession                                                                                               | 
-| ------------------ | ----  | ----  | ---------------------------------------------------------------------------------------------------------- | ---------------------|
+| ------------------ | ----  | ----  | ---------------------------------------------------------------------------------------------------------- | 
 | Guppy 6.3.7 | dna_r10.4.1_e8.2_sup@v3.5.1 | live basecalling;  reads that passed the default qscore filter | [SRR23215363](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23215363&display=download) |
 | Guppy 6.1.5 | dna_r10.4.1_e8.2_hac@v3.5.1 | reads that passed the qscore filter for threshold 9 | [SRR23215364](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR23215364&display=download) |
 
