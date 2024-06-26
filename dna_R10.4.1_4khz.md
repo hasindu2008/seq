@@ -34,4 +34,5 @@ basecalls:
 ## More dataset links
 
 - NA12878 (HG001) PromethION data (~20X): See the [gtgseq repository](https://gentechgp.github.io/gtgseq/docs/data.html#na12878-hg001-promethion-data-20x).
+- human methylated and non-methylated (WGA) DNA datasets from zymo dna methylation standards (D5013): see ENA under [PRJEB64592](https://www.ebi.ac.uk/ena/browser/view/PRJEB64592)
 - Zymo GridION: see [here](https://github.com/Kirk3gaard/2023-basecalling-benchmarks)
